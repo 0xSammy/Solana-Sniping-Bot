@@ -14,11 +14,10 @@
 
 2. Be sure you have installed Python, [here is a link to download](https://www.python.org/downloads/)
 3. Open **cmd** (command prompt)
-4. Install **all python module**:
+4. Fill in all the data in `config.json`
+5. Install **all python module**:
 
    `pip install -r requirements.txt`
-5. Fill in all the data in `config.json`
-
 6. Open **CMD** and go to directory:
  `cd /path/to/directory/`
 

@@ -1,0 +1,8 @@
+{
+  "seedPhrase": "your seed phrase from Phantom Wallet (Do Not Share This KEY)",
+  "password": "your password",
+  "collectionName": "DeGods",
+  "willingPrice": 399,
+  "cooldown": 15,
+  "closeBrowser": true
+}

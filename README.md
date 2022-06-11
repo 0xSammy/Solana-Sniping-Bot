@@ -17,17 +17,7 @@
 4. Install **all python module**:
 
    `pip install -r requirements.txt`
-5. Fill in all the data in `config.json`:
-```json
-{
-"seedPhrase": "your seed phrase from Phantom Wallet (Do Not Share This KEY)",
-"password": "your password",
-"collectionName" : "Collection name example: DeGods",
-"willingPrice": 399 (preferred buying price),
-"cooldown": 15 - minutes (How long will the bot wait for the next attempt),
-"closeBrowser": true (Close browser after buying, false - No)
-}
-```
+5. Fill in all the data in `config.json`
 
 6. Open **CMD** and go to directory:
  `cd /path/to/directory/`
